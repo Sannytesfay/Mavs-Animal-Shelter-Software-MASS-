@@ -1,1 +1,1 @@
-# Mavs-Animal-Shelter-Software-MASS-
+To run compile the progect using ANT then run MASS.java
